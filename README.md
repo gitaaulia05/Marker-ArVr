@@ -24,7 +24,7 @@ Proyek ini merupakan aplikasi **Augmented Reality (AR) marker-based** yang memun
 1. Buka proyek di **Unity**.
 2. Pastikan **Vuforia Engine** sudah diaktifkan di `XR Settings`.
 3. Pastikan marker yang digunakan sesuai dengan yang disediakan.
-4. Build ke platform yang diinginkan (Android/iOS/PC).
+4. Build ke platform android
 5. Scan marker untuk melihat model 3D.
 
 ## Credit / Lisensi
