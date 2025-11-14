@@ -1,0 +1,1 @@
+C:\Users\Gita Aulia Hafid\MarkerUts\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\85i5r2v6\obj\arm64-v8a

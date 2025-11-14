@@ -1,0 +1,37 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / Rider / IDE files
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.vsconfig
+*.ide
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android / iOS
+*.apk
+*.aab
+*.ipa
+*.xcworkspace
+
+*.fbx
+*.tgz
+Packages/com.ptc.vuforia.engine-*/ 
+Assets/SamplesResources/
